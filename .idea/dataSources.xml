@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="PasswordData" uuid="9d3cdb08-fcc8-4be7-b45b-0aedf6a6328d">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\sayyam.code\Python\password generator\PasswordData.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
